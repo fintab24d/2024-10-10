@@ -1,37 +1,40 @@
 body {
     background-color: #eee;
     font-family: 'Courier New', Courier, monospace;
-   
+    text-align: justify;
 }
 
-main{
-    border: 2px solid #999;
+main {
+
     border-radius: 5px;
     width: 600px;
     margin: auto;
     padding: 20px;
 }
 
-header{
-
+header {
+    border: 2px solid #999;
+    height: 150px;
+    margin-bottom: 10px;
 }
 
-nav{
-
-
+nav {
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
-section{
-
-
+section {
+    border: 2px solid #999;
+    margin-bottom: 10px;
+    padding: 20px;
 }
 
-aside{
-
-
+aside {
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
 
-footer{
-
-
+footer {
+    border: 2px solid #999;
+    margin-bottom: 10px;
 }
